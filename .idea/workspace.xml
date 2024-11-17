@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65b1d93f-29b9-4040-bb34-f29754c349ae" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.view.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/les4/detail.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/les4/fietsenmaker.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/les4/master.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/opdracht1.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/school.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tabellen/cars.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tabellen/dbconnect.php" beforeDir="false" />
-    </list>
+    <list default="true" id="65b1d93f-29b9-4040-bb34-f29754c349ae" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +58,7 @@
       <workItem from="1731887742890" duration="3000" />
       <workItem from="1731887780424" duration="4000" />
       <workItem from="1731887799847" duration="19000" />
+      <workItem from="1731887835253" duration="2000" />
     </task>
     <servers />
   </component>
