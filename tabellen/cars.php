@@ -1,4 +1,0 @@
-<?php
-include('dbconnect.php');
-
-?>

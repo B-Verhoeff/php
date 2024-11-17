@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65b1d93f-29b9-4040-bb34-f29754c349ae" name="Changes" comment="" />
+    <list default="true" id="65b1d93f-29b9-4040-bb34-f29754c349ae" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/les4/detail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/les4/fietsenmaker.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/les4/master.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opdracht1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/school.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tabellen/cars.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tabellen/dbconnect.php" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,18 +36,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "php-toets",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;php-toets&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -57,6 +68,7 @@
       <workItem from="1729756438119" duration="9000" />
       <workItem from="1731887742890" duration="3000" />
       <workItem from="1731887780424" duration="4000" />
+      <workItem from="1731887799847" duration="19000" />
     </task>
     <servers />
   </component>
