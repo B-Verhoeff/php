@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65b1d93f-29b9-4040-bb34-f29754c349ae" name="Changes" comment="" />
+    <list default="true" id="65b1d93f-29b9-4040-bb34-f29754c349ae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Fietsenmaker/detail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fietsenmaker/insert-fiets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fietsenmaker/insert-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fietsenmaker/master.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Random/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/Random/index.view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/les4/detail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/les4/fietsenmaker.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/les4/master.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/Random/main.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opdracht1.php" beforeDir="false" afterPath="$PROJECT_DIR$/Random/opdracht1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Random/school.sql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,18 +39,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.detail.php.executor": "Run",
+    "JavaScript Debug.insert-fiets.php.executor": "Run",
+    "JavaScript Debug.master.php.executor": "Run",
+    "PHP Script.detail.php.executor": "Run",
+    "PHP Script.insert-fiets.php.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SD Student\Documents\GitHub\php\Random" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -57,6 +81,7 @@
       <workItem from="1729756438119" duration="9000" />
       <workItem from="1731887742890" duration="3000" />
       <workItem from="1731914787595" duration="16000" />
+      <workItem from="1732530897484" duration="4474000" />
     </task>
     <servers />
   </component>
