@@ -18,7 +18,7 @@
         <input type="text" class="form=control" id="n" name="naam"
         value="<?php echo $_POST['name'] ?? '' ?>">
         <div class="form-text text-danger">
-            <?= $nameError ?>
+            <?= $errors['name'] ?? '' ?>
         </div>
     </div>
 
@@ -28,16 +28,16 @@
             <?php echo $_POST['review'] ?? '' ?>
         </textarea>
         <div class="form-text text-danger">
-            <?= $reviewError ?>
+            <?= $errors['review'] ?? '' ?>
         </div>
     </div>
 
     <div class="mb-3 form-check">
         <input type="checkbox" class="form-check-input" id="a" name="akkoord" value="akkoord">
-        <?php echo (isset($_POST['agree'])?'checked="checked"'; ?>>
+        <?php echo (isset($_POST['agree'])?'checked="checked"':'')?>>
         <label class="form-check-label" for="a">accepteer voorwaarden</label>
         <div class="form-text text-danger">
-            <?= $agreeError ?>
+            <?= $errors['agree'] ?? '' ?>
         </div>
     </div>
 
@@ -49,11 +49,10 @@ include 'dbconnect.php';
 
 const NAME_REQUIRED = 'Naam invullen';
 const REVIEW_REQUIRED = 'Review invullen';
-const AGREE_REQIORED = 'Voorwaarden accepteren';
+const AGREE_REQUIRED = 'Voorwaarden accepteren';
 
-$nameError="";
-$reviewError="";
-$agreeError="";
+$errors = [];
+$inputs = [];
 
 if(isset($_POST['verzenden'])) {
     echo "Het formulier is verzonden!<br>";
@@ -71,7 +70,9 @@ if(isset($_POST['verzenden'])) {
 $name = filter_input(INPUT_POST, 'name', FILTER_SANITIZE_SPECIAL_CHARS);
 $name = trim($name);
 if (empty($name)) {
-    $nameError = NAME_REQUIRED;
+    $errors['name'] = NAME_REQUIRED;
+} else {
+    $inputs['name'] = $name;
 }
 
 //sanitize and validate review
@@ -79,7 +80,9 @@ $review = filter_input(INPUT_POST, 'review', FILTER_SANITIZE_SPECIAL_CHARS);
 
 $review = trim($review);
 if (empty($review)) {
-$reviewError = REVIEW_REQUIRED;
+    $errors['review'] = REVIEW_REQUIRED;
+} else {
+    $inputs['review'] = $review;
 }
 
 //accept terms
@@ -87,10 +90,12 @@ $agree = filter_input(INPUT_POST, 'agree', FILTER_SANITIZE_SPECIAL_CHARS);
 
 // kijk of agree in de $_POST array zit, filter_input geeft null terug als agree er niet bij zit.
 if ($agree === null) {
-    $agreeError = AGREE_REQUIRED;
+    $errors['agree'] = AGREE_REQUIRED;
+} else {
+    $inputs['agree']=$agree;
 }
 
-if ($nameError==="" && $reviewError==="" && $agreeError==="") {
+if (count($errors) === 0) {
     global $db;
 
     $sth =$db->prepare('INSERT INTO review (name,content) VALUES (:name,:review)');

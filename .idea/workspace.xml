@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65b1d93f-29b9-4040-bb34-f29754c349ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Les 6,7,8 (Formulieren)/form.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Les 6,7,8 (Formulieren)/dbconnect.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Les 6,7,8 (Formulieren)/form.php" beforeDir="false" afterPath="$PROJECT_DIR$/Les 6,7,8 (Formulieren)/form.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -34,9 +35,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "JavaScript Debug.detail.php.executor": "Run",
+    "JavaScript Debug.form.php.executor": "Run",
     "JavaScript Debug.insert-fiets.php.executor": "Run",
     "JavaScript Debug.master.php.executor": "Run",
     "PHP Script.detail.php.executor": "Run",
+    "PHP Script.form.php.executor": "Run",
     "PHP Script.insert-fiets.php.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -77,6 +80,7 @@
       <workItem from="1731914787595" duration="16000" />
       <workItem from="1732530897484" duration="4474000" />
       <workItem from="1733126059024" duration="5152000" />
+      <workItem from="1733134854296" duration="4757000" />
     </task>
     <servers />
   </component>
