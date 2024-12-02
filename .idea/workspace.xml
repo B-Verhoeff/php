@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65b1d93f-29b9-4040-bb34-f29754c349ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Fietsenmaker/detail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fietsenmaker/insert-fiets.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fietsenmaker/insert-form.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fietsenmaker/master.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Les 6,7,8 (Formulieren)/form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Random/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/Random/index.view.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/les4/detail.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/les4/fietsenmaker.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/les4/master.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/Random/main.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opdracht1.php" beforeDir="false" afterPath="$PROJECT_DIR$/Random/opdracht1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/school.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Random/school.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -46,7 +38,9 @@
     "JavaScript Debug.master.php.executor": "Run",
     "PHP Script.detail.php.executor": "Run",
     "PHP Script.insert-fiets.php.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -82,10 +76,22 @@
       <workItem from="1731887742890" duration="3000" />
       <workItem from="1731914787595" duration="16000" />
       <workItem from="1732530897484" duration="4474000" />
+      <workItem from="1733126059024" duration="5152000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
