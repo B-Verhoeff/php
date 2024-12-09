@@ -20,3 +20,4 @@ try {
 ?>
 <br>
 <a href="master.php">Terug naar master pagina</a>
+<a href="insert-form.php">Terug naar insert pagina</a>
