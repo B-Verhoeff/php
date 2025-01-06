@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65b1d93f-29b9-4040-bb34-f29754c349ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Fietsenmaker/update_detail.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fietsenmaker/detail.php" beforeDir="false" afterPath="$PROJECT_DIR$/Fietsenmaker/detail.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fietsenmaker/insert-fiets.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fietsenmaker/insert-form.php" beforeDir="false" afterPath="$PROJECT_DIR$/Fietsenmaker/insert-form.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fietsenmaker/master.php" beforeDir="false" afterPath="$PROJECT_DIR$/Fietsenmaker/master.php" afterDir="false" />
-    </list>
+    <list default="true" id="65b1d93f-29b9-4040-bb34-f29754c349ae" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,6 +78,7 @@
       <workItem from="1733126059024" duration="5152000" />
       <workItem from="1733134854296" duration="4757000" />
       <workItem from="1733730563789" duration="6145000" />
+      <workItem from="1736149799301" duration="4000" />
     </task>
     <servers />
   </component>
